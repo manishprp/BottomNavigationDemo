@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/new_button_bottom"
+    android:title="New"
+    android:icon="@drawable/ic_baseline_fiber_new_24"/>
+<item
+    android:id="@+id/save_button_bottom"
+    android:title="Save"
+    android:icon="@drawable/ic_baseline_save_alt_24"/>
+<item
+    android:id="@+id/open_button_bottom"
+    android:title="Open"
+    android:icon="@drawable/ic_baseline_folder_open_24"/>
+<item
+    android:id="@+id/delete_button_bottom"
+    android:title="Delete"
+    android:icon="@drawable/ic_baseline_delete_forever_24"/>
+/</menu>
